@@ -86,7 +86,7 @@ projects.displayProjects();
 var bio = {
 	"name": "Safiah Alsalem",
 	"role": "Web Developer & Systems analyst",
-	"welcomeMessage": "Welcome to my resume",
+	"welcomeMessage": "",
 	"biopic": "images/User.png",
 	"contacts" : {
 		"mobile": "📞 055555555",
