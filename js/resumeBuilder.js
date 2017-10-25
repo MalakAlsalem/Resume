@@ -8,7 +8,15 @@ var work = {
 			"dates": "2012",
 			"description": "I worked at PNU for 3 years as a Web Developer."
 		},	
-		{
+        {
+            "employer": "KAU - King Saud University",
+            "image" : "images/ksu.png",
+            "title": "System analyst",
+            "location": "King Saud University",
+            "dates": "2016",
+            "description": "I am working at KSU from two years ago, as a System Analyst"        
+        }, 
+          {
 			"employer": "KAU - King Saud University",
 			"image" : "images/ksu.png",
 			"title": "System analyst",
