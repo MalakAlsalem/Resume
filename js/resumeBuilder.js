@@ -15,15 +15,7 @@ var work = {
             "location": "King Saud University",
             "dates": "2016",
             "description": "I am working at KSU from two years ago, as a System Analyst"        
-        }, 
-          {
-			"employer": "KAU - King Saud University",
-			"image" : "images/ksu.png",
-			"title": "System analyst",
-			"location": "King Saud University",
-			"dates": "2016",
-			"description": "I am working at KSU from two years ago, as a System Analyst"		
-		}			
+        } 		
 	],
 	displayWork: function() {
 		for (var x= 0; x<work.jobs.length; x++) {
